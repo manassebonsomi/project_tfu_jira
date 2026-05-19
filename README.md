@@ -1,4 +1,3 @@
-# Projet TFU - Manassé Bonsomi
 # 📌 Project TFU Jira – Task & Project Management System
 
 ## 📌 Description
